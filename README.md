@@ -1,6 +1,6 @@
 # acm-icpc
 This is the a not complite solution for ACM-ICPC Program 2017 (Program A)
-This program solves a problem related to intersecting lines and polygons. It uses a simple greedy approach and has a time complexity of O(n^2), which is a bit high since it doesn't consider when a line intersects with another line.
+This program solves a problem related to intersecting lines and polygons. It uses a simple greedy approach and has a time complexity of O(n^2), which is a bit weired since it doesn't consider when a line intersects with another line.
 
 # Compiling the Program
 To compile the program, you can use any available C++ compiler. There are no fancy new C++ features used in the code. For example, you can use g++ or MSVC.
